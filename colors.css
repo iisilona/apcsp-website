@@ -1,0 +1,10 @@
+table, th, td {
+  background-color:Lavender;
+  border:1px Indig;
+tr:nth-child(even) {background-color:LavenderBlush}
+ }
+
+th {
+  background-color:Indigo;
+  color: white;
+ }
